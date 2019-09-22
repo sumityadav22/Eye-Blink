@@ -50,5 +50,10 @@ body
 	background: #ff6b6b;
 	border-radius: 0 0 60% 60%;
 	transition: 0.4s all;
+
+}
+
+.eye:hover > .shut span{
+	height: 100%;
 	
 }
