@@ -16,6 +16,7 @@ body
 	transform: translate(-50%,-50%) rotate(45deg);
 	border-radius: 75% 0;
 	overflow: hidden;
+	cursor: pointer;
 }
 
 .ball
@@ -55,5 +56,5 @@ body
 
 .eye:hover > .shut span{
 	height: 100%;
-	
+
 }
