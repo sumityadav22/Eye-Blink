@@ -4,3 +4,15 @@ body
 	padding: 0;
 	background-color: #333;
 }
+
+.eye
+{
+	width: 200px;
+	height: 200px;
+	background: white;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%) rotate(45deg);
+	border-radius: 75% 0;
+}
